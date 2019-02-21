@@ -20,5 +20,5 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 ### February 7, 2019:  Deep learning with Keras/Tensorflow in Colab (part 1)
 
 * Presenter: Dr. Drew Linsley (CLPS)
-* Relevat links:<a href="https://colab.research.google.com/github/dscov-tutorials/deep_learning/blob/master/DNN_scrape_and_finetune.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Relevat links:<a href="https://colab.research.google.com/github/dscov-tutorials/deep_learning/blob/master/DNN_scrape_and_finetune.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Notebook"/></a>
 * Related repository: [deep_learning](https://github.com/dscov-tutorials/deep_learning)
