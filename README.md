@@ -8,7 +8,7 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 ### February 21, 2019: Cloud computing with AWS
 
 * Presenter: Dr. Paul Stey (CCV)
-* Relevat links:
+* Relevat links: http://bit.ly/dscov-aws
 
 ### February 14, 2019:  Deep learning in Kaggle Kernels
 
