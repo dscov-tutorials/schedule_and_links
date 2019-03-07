@@ -8,7 +8,7 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 ## March 6, 2019: Tidying, Transforming, and Visualizing Data in R
 
 * Presenter: Dr. Agust Guang (CCV)
-* Related links:http://bit.ly/dscov-tydiverse
+* Related links:http://bit.ly/dscov-tidyverse
 * Related repository: 
 
 ### February 28, 2019: Cloud computing with Google Cloud Platform
