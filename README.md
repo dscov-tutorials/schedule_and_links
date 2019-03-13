@@ -5,7 +5,11 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 
 ## Schedule and links to materials
 
-## March 6, 2019: Tidying, Transforming, and Visualizing Data in R
+## March 14, 2019: Introduction to git
+
+* Presenter: Dr. August Guang (CCV)
+
+## March 7, 2019: Tidying, Transforming, and Visualizing Data in R
 
 * Presenter: Dr. August Guang (CCV)
 * Related links: http://bit.ly/dscov-tidyverse
