@@ -8,6 +8,8 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 ## March 14, 2019: Introduction to git
 
 * Presenter: Dr. August Guang (CCV)
+* Related links: https://gitpitch.com/dscov-tutorials/gitintro
+* Related repository: https://github.com/dscov-tutorials/gitintro
 
 ## March 7, 2019: Tidying, Transforming, and Visualizing Data in R
 
