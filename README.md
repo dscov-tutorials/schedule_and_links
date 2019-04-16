@@ -5,6 +5,12 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 
 ## Schedule and links to materials
 
+## April 18, 2019: Basics of Data Exploration and Visualization with Vega
+
+* Presenter: Mary McGrath (CCV)
+* Related links: https://www.notion.so/brownccv/Vega-d18af1cc5e2e4139bd02d8940acf0449
+* Related links: https://github.com/dscov-tutorials/vega
+
 ## March 14, 2019: Introduction to git
 
 * Presenter: Dr. August Guang (CCV)
