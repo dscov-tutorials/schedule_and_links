@@ -8,7 +8,7 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 ## April 18, 2019: Basics of Data Exploration and Visualization with Vega
 
 * Presenter: Mary McGrath (CCV)
-* Related links: https://www.notion.so/brownccv/Vega-d18af1cc5e2e4139bd02d8940acf0449
+* Related links: https://bit.ly/2ItYMfd
 * Related links: https://github.com/dscov-tutorials/vega
 
 ## March 21, 2019: Basics of Data Visualization with D3.js
