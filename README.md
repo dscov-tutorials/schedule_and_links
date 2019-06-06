@@ -5,6 +5,12 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 
 ## Schedule and links to materials
 
+## June 6, 2019: Getting Started with Virtual Reality
+
+* Presenter: Ben Knorlein (CCV)
+* Related links: https://github.com/dscov-tutorials/VR_Getting_Started
+
+
 ## April 18, 2019: Basics of Data Exploration and Visualization with Vega
 
 * Presenter: Mary McGrath (CCV)
@@ -28,24 +34,24 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 * Related links: http://bit.ly/dscov-tidyverse
 * Related repository: https://github.com/dscov-tutorials/tidyverse
 
-### February 28, 2019: Cloud computing with Google Cloud Platform
+## February 28, 2019: Cloud computing with Google Cloud Platform
 
 * Presenter: Dr. Isabel Restrepo (CCV)
 * Related links: http://bit.ly/dscov-gcp
 
-### February 21, 2019: Cloud computing with AWS
+## February 21, 2019: Cloud computing with AWS
 
 * Presenter: Dr. Paul Stey (CCV)
 * Related links: http://bit.ly/dscov-aws
 
-### February 14, 2019:  Deep learning in Kaggle Kernels
+## February 14, 2019:  Deep learning in Kaggle Kernels
 
 * Presenter: Dr. Drew Linsley (CLPS)
 * Related links:
   * http://bit.ly/dscov-01-ntb
   * http://bit.ly/dscov_kaggle
 
-### February 7, 2019:  Deep learning with Keras/Tensorflow in Colab (part 1)
+## February 7, 2019:  Deep learning with Keras/Tensorflow in Colab (part 1)
 
 * Presenter: Dr. Drew Linsley (CLPS)
 * Related links:<a href="https://colab.research.google.com/github/dscov-tutorials/deep_learning/blob/master/DNN_scrape_and_finetune.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab Notebook"/></a>
