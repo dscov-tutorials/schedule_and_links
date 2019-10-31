@@ -5,6 +5,22 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 
 ## Schedule and links to materials
 
+## November 1, 2019: Cloud computing with Google Cloud Platform
+
+* Presenter: Dr. Isabel Restrepo (CCV)
+* Related links: http://bit.ly/dscov-gcp
+
+## October 25, 2019: Deep learning for $150?
+
+* Presenter: Lakshmi Govindarajan (Serre Lab)
+* Related links: https://github.com/serre-lab/rpi-ncs-toolkit
+
+## October 19, 2019: PyTorch Tutorial
+
+* Presenter: Minju Jung (Serre Lab)
+* Related links: 
+
+
 ## June 6, 2019: Getting Started with Virtual Reality
 
 * Presenter: Ben Knorlein (CCV)
