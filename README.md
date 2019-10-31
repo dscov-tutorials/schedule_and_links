@@ -18,7 +18,7 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 ## October 19, 2019: PyTorch Tutorial
 
 * Presenter: Minju Jung (Serre Lab)
-* Related links: 
+* Related links: https://github.com/dscov-tutorials/pytorch_tutorial
 
 
 ## June 6, 2019: Getting Started with Virtual Reality
