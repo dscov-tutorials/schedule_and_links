@@ -5,6 +5,13 @@ Co-sponsored by the Data Science Initiative, the Center for Computation and Visu
 
 ## Schedule and links to materials
 
+## November 22, 2019: Making science more open and reproducible by design, tools can help
+
+* Presenter: Dr. Yaroslav O. Halchenko ([CON](http://centerforopenneuroscience.org), [PBS, Dartmouth](https://pbs.dartmouth.edu))
+* Related links:
+  * http://centerforopenneuroscience.org
+  * [Slides (PDF)](http://neuro.debian.net/_files/brown2019-contools-halchenko.pdf)
+
 ## November 1, 2019: Cloud computing with Google Cloud Platform
 
 * Presenter: Dr. Isabel Restrepo (CCV)
